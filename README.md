@@ -1,7 +1,7 @@
 # The Sparks Foundation -Graduation Rotational Internship Program
 
 This repository is dedicated to the completion of all my tasks with videos from The Sparks Foundation (Graduate Rotational Internship Program).
-As of now, I will be updating the tasks from my domain : Data Science and Business Analytics for the May 2021 batch.
+As of now, I will be updating the tasks from my domain : Data Science and Business Analytics for the June 2021 batch.
 
 ## Tools/IDE : Python/Google Colab/Jupyter Notebook
 
